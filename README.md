@@ -2,7 +2,7 @@
 
 # Website Portfolio
 
-## 📌 Deskripsi Project
+## Deskripsi Project
 Project ini merupakan website portfolio sederhana yang dibuat menggunakan HTML, CSS, Bootstrap 5, dan Vue JS.  
 Website terdiri dari tiga section utama yaitu Home, About Me, dan Certificates.
 
